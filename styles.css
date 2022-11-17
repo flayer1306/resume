@@ -121,12 +121,6 @@ a:active {
     color: #86898f;
 }
 
-/*.table thead {*/
-/*    text-align: left;*/
-/*    font-weight: bold;*/
-/*    font-size: 1.1rem;*/
-/*}*/
-
 .web {
     margin-bottom: 10px;
 }
@@ -170,8 +164,6 @@ a:active {
 .form-row .form-group {
     width: 50%;
     margin-right: 20px;
-    /*display: inline-block;*/
-    /*width: calc(50% - 20px);*/
 }
 
 .form-row .form-group:last-child {
