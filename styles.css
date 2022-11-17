@@ -45,6 +45,13 @@ body {
     margin-bottom: 20px;
 }
 
+@media (max-width: 560px) {
+    .about-block {
+        display: block;
+        text-align: center;
+    }
+}
+
 .about p {
     font-style: italic;
     color: #86898f;
@@ -188,3 +195,4 @@ a:active {
     outline: none;
     font-family: inherit;
 }
+
